@@ -1,0 +1,27 @@
+.services {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .services h2 {
+    margin-top: 0;
+    color: crimson;
+  }
+  
+  .services p {
+    font-size: 1.2em;
+    color: chocolate;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: blueviolet;
+  }
+  
