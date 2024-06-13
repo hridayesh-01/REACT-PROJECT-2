@@ -1,15 +1,38 @@
 .portfolio {
     padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+  }
+
+  div{
+    margin-top: 25px;
   }
   
-  .portfolio h2 {
-    margin-top: 0;
-    color: crimson;
+  .portfolio h3 {
+    margin-top: 5px;
+    color: black;
   }
-  
-  .portfolio p {
+
+  .portfolio p0 {
     font-size: 1.2em;
-    color: chocolate;
+    color: black;
+  }
+  
+  .portfolio p1 {
+    font-size: 1.2em;
+    color: black;
+ 
+  }
+  .portfolio p2 {
+    font-size: 1.2em;
+    color: black;
+   
+  }
+
+  .portfolio p3 {
+    font-size: 1.2em;
+    color: black;
+    
   }
   
   .portfolio-items {
@@ -20,7 +43,7 @@
   
   .portfolio-item {
     width: 30%;
-    background-color: #f0f0f0;
+    background-color: #dbe4ed;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 8px;

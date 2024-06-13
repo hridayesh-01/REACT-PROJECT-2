@@ -1,24 +1,27 @@
 .contact {
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color : white;
     border-radius: 8px;
   }
   
-  .contact h2 {
+  .contact h3 {
     text-align: center;
     margin-top: 0;
-    color: crimson;
+    color: black;
+    font-size :x-large;
   }
   
-  .contact p {
+  .contact p4 {
     text-align: center;
-    font-size: 1.2em;
+    font-size: 15px;
+    color: black;
+    line-height: 10px;
   }
   
   .contact form {
+    margin-top: 25px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
   }
   
   .contact label {
@@ -38,7 +41,7 @@
     flex : 1;
     padding: 8px;
     margin-left: 10 px;
-    border: 1px solid #ddd;
+    border: 1px solid #1687b8;
     border-radius: 4px;
     font-size: 1.1em;
   }

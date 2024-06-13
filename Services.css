@@ -1,27 +1,28 @@
 .services {
-    background-color: #f0f0f0;
+    background-color: white;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 8px; 
   }
   
-  .services h2 {
-    margin-top: 0;
-    color: crimson;
-  }
+.services h3 {
+  margin-top: 0;
+  color: black;
+}
   
-  .services p {
-    font-size: 1.2em;
-    color: chocolate;
-  }
+.services p5 {
+  margin-top: 0;
+  font-size: 15px;
+  color: black;
+}
   
-  .services ul {
+.services ul {
     list-style: none;
     padding: 0;
-  }
+}
   
-  .services ul li {
+.services ul li {
     margin-bottom: 10px;
     font-size: 1.1em;
-    color: blueviolet;
-  }
+    
+}
   

@@ -4,8 +4,8 @@ import './Services.css';
 const Services = () => {
   return (
     <section id="services" className="services">
-      <h2>Our Services</h2>
-      <p>We provide a wide range of financial services to help you manage and grow your wealth. Our services include:</p>
+      <h3>Why Should Use Management Finance</h3>
+      <p5>We provide a wide range of financial services to help you manage and grow your wealth. <br/> Our services include:</p5>
       <ul>
         <li>Financial Planning: Customized strategies to meet your unique financial goals.</li>
         <li>Investment Management: Professional management of your investment portfolio.</li>

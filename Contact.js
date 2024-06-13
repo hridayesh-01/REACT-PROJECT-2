@@ -4,8 +4,8 @@ import './Contact.css';
 const Contact = () => {
   return (
     <section id="contact" className="contact">
-      <h2>Contact Us</h2>
-      <p>We'd love to hear from you. Whether you have questions about our services or need advice on financial matters, feel free to get in touch.</p>
+      <h3>Contact Us</h3>
+      <p4>We'd love to hear from you. Whether you have questions about our services or need advice on financial matters, feel free to get in touch.</p4>
       <form>
         <label>
           <span>Name:</span>
