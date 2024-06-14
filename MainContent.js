@@ -8,9 +8,9 @@ const MainContent = () => {
   return (
     <main className="main-content">
       <section id="home">
-        <h2>A Fully Integrated Planning Advice</h2>
+        <h2>A Fully Integrated <br/>Planning Advice</h2>
         <p>
-          Financepower is a software as a services multipurpose <br/>
+          Financepower is a software as a services multipurpose<br/>
           finance management system, especially for them.
         </p>
         

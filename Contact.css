@@ -40,10 +40,11 @@
   .contact textarea {
     flex : 1;
     padding: 8px;
-    margin-left: 10 px;
+    margin-left: px;
     border: 1px solid #1687b8;
     border-radius: 4px;
     font-size: 1.1em;
+    width : 1000px;
   }
   
   .contact button {
